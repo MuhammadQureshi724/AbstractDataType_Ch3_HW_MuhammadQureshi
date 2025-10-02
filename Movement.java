@@ -2,9 +2,8 @@ package Flight;
 
 /**
  * Interface: Movement
- * @author Muhammad Qureshi
- * @version 1.0
- * Course: ITEC XXXX Fall 2025
+ Name: Muhammad Qureshi
+ * Course: ITEC section 5 Fall 2025
  * Written: October 1, 2025
  *
  * Movement interface extending Flight.
